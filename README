@@ -1,0 +1,8 @@
+Simple app rendering a hello world page with container hostname.
+
+
+Usage
+=====
+
+  $ docker run --rm -p 8080:8080 pockost/http-helloworld
+  $ curl localhost:8080
